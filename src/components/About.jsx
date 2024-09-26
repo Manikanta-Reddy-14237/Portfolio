@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section className="about" id="about">
       <div className="about-img">
-        <img src={`${process.env.PUBLIC_URL}/images/my-image-modified.png`} alt="Manikanta" />
+        <img src="images/my-image-modified.png" alt="Manikanta" />
       </div>
       <div className="about-text">
         <h2>About <span>Me</span></h2>

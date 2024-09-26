@@ -8,7 +8,7 @@ const Portfolio = () => {
       </div>
       <div className="portfolio-content">
         <div className="row">
-          <img src="../../public/images/blog.avif" alt="Blog Website" />
+          <img src="images/blog.avif" alt="Blog Website" />
           <div className="layer">
             <h5>Blog Website</h5>
             <p>This project is a blog website built using Node.js, Express, EJS templating, and MongoDB...</p>
@@ -16,7 +16,7 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="row">
-          <img src="../../public/images/e-learning.avif" alt="Blog Website" />
+          <img src="images/e-learning.avif" alt="Blog Website" />
           <div className="layer">
             <h5>Elearning</h5>
             <p>This project is a blog website built using Node.js, Express, EJS templating, and MongoDB...</p>
@@ -24,7 +24,7 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="row">
-          <img src="../../public/images/vq.jpg" alt="Blog Website" />
+          <img src="images/vq.jpg" alt="Blog Website" />
           <div className="layer">
             <h5>FoodieGo</h5>
             <p> My food ordering website features an intuitive interface that enhances user experience 
